@@ -2,7 +2,7 @@
 
 MSc Business Analytics student at Aston University with a background in sales, commercial operations and data-driven decision support.
 
-I am building a portfolio focused on SQL, Power BI, Python, business intelligence and commercial analytics. My work combines practical business understanding with analytical tools to turn raw data into clear insights, dashboards and decision-ready recommendations.
+I am building a portfolio focused on SQL, Power BI, Python, business intelligence, machine learning and commercial analytics. My work combines practical business understanding with analytical tools to turn raw data into clear insights, dashboards and decision-ready recommendations.
 
 ---
 
@@ -11,7 +11,8 @@ I am building a portfolio focused on SQL, Power BI, Python, business intelligenc
 * SQL-based business analysis
 * Power BI dashboards and reporting
 * Sales and commercial performance analytics
-* Customer, product and regional performance analysis
+* Customer churn and retention analytics
+* Revenue and profitability analysis
 * Data quality checks and validation
 * Business intelligence storytelling
 * Python for data analysis and machine learning
@@ -21,15 +22,16 @@ I am building a portfolio focused on SQL, Power BI, Python, business intelligenc
 ## Tools and Skills
 
 **Data and Analytics:** SQL Server, Power BI, DAX, Python, Excel, Power Query
-**Business Analysis:** KPI reporting, dashboard design, stakeholder reporting, commercial insight generation
-**Technical Areas:** Data modelling, SQL views, data validation, trend analysis, segmentation, performance analysis
+**Python and Machine Learning:** Pandas, NumPy, Scikit-learn, Jupyter Notebook
+**Business Analysis:** KPI reporting, dashboard design, stakeholder reporting, churn analysis, revenue analysis, commercial insight generation
+**Technical Areas:** Data modelling, SQL views, data validation, trend analysis, segmentation, risk scoring, performance analysis
 **Version Control:** Git and GitHub
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### SQL Commercial Sales Performance Analysis
+### 1. SQL Commercial Sales Performance Analysis
 
 An end-to-end SQL Server and Power BI project using a synthetic UK commercial sales database.
 
@@ -63,6 +65,40 @@ View the project here:
 
 ---
 
+### 2. Customer Churn and Revenue Retention Analysis
+
+An end-to-end churn analytics project using Python, SQL Server, machine learning and Power BI.
+
+The project focuses on identifying churn drivers, estimating revenue at risk, predicting at-risk customers and translating model output into practical retention actions.
+
+Key areas analysed:
+
+* Overall churn and revenue at risk
+* Churn by contract type
+* Churn by tenure group
+* Churn by payment method
+* Churn by internet service
+* Customer risk segmentation
+* Model-based churn probability
+* Recommended retention actions
+
+**Project highlights:**
+
+* 7,043 customers analysed
+* 1,869 churned customers identified
+* 26.5% overall churn rate
+* £139,130.85 monthly revenue at risk
+* £1.67m estimated annual revenue at risk
+* Logistic Regression, Random Forest and Tuned Random Forest models compared
+* Tuned Random Forest selected with 80.9% recall
+* Customer risk bands created: Low, Medium, High and Critical Risk
+* Five-page Power BI dashboard created for churn, revenue exposure and retention planning
+
+View the project here:
+[Customer Churn and Revenue Retention Analysis](https://github.com/chetansinghanalytics/customer-churn-retention-analysis)
+
+---
+
 ## Current Portfolio Direction
 
 I am currently developing projects that demonstrate practical analytics skills across:
@@ -73,6 +109,7 @@ I am currently developing projects that demonstrate practical analytics skills a
 * Sales operations analytics
 * Marketing and campaign performance analysis
 * Predictive analytics using Python
+* Machine learning for business decision-making
 
 ---
 
